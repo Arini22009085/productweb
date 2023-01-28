@@ -300,7 +300,7 @@ products.html
 
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Praisey Solomon</footer></div>
+                Copyright &copy;2023 Developed by Arini</footer></div>
             </div>
         </div>
     </body>
@@ -344,7 +344,7 @@ people.html
             margin-right:auto;
         }
         .ceoph{
-            background-image: url(/static/images/pic1.jpg);
+            background-image: url(/static/images/pic3.jpg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -364,7 +364,7 @@ people.html
             
         }
         .manph1{
-            background-image: url(/static/images/pic2.jpg);
+            background-image: url(/static/images/pic1.jpg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -382,7 +382,7 @@ people.html
             
         }
         .manph2{
-            background-image: url(/static/images/pic4.jpg);
+            background-image: url(/static/images/pic2.jpg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -402,7 +402,7 @@ people.html
         }
         
         .amph1{
-            background-image: url(/static/images/pic4g.htm);
+            background-image: url(/static/images/pic3.jpg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -422,7 +422,7 @@ people.html
         }
 
         .amph2{
-            background-image: url(/static/images/pic5g.htm);
+            background-image: url(/static/images/pic4.jpg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -441,7 +441,7 @@ people.html
             text-align:center;
         }
         .amph3{
-            background-image: url(/static/images/pic6.jpg);
+            background-image: url(/static/images/pic5.jpg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -487,28 +487,28 @@ people.html
                     <h4><u>Chairman</u></h4>
                     </div>
                     <div class="ceoph"></div>
-                    <div class="ceo"><p align="center"><b><h2>Praisey Solomon</h2></b></div>
+                    <div class="ceo"><p align="center"><b><h>Gokula priya</h2></b></div>
                     <br>
                     <div class="text">
                         <p><b><u>Head executives</u></b></p><br>
                     </div>
                     <div class="manph1"></div>
-                    <div class="man1"><p align="center"><b><h2>Anto Jessi</h2></b></p></div>
+                    <div class="man1"><p align="center"><b><h> Ashwini</h2></b></p></div>
                     <div class="manph2"></div>
-                    <div class="man2"><p><b><h2>Sandhya Balamurali</h2></b></p></div>
+                    <div class="man2"><p><b><h2>Venmitha</h2></b></p></div>
                     <br>
-                    <div class="text"><p><b><u>Managers</u></b></p></div><br>
+                    <div class="text"><p><b><u>Advisory Committee</u></b></p></div><br>
                     <div class="amph1"></div>
-                    <div class="am1"><p align="center"><b><h2>Narthika</h2></b></p></div>
+                    <div class="am1"><p align="center"><b><h2>Roselin Mary Jovita</h2></b></p></div>
                     <div class="amph2"></div>
-                    <div class="am2"><p align="center"><b><h2>Nithyaa Sri Saravanan</h2></b></p></div>
+                    <div class="am2"><p align="center"><b><h2>Gokula priya</h2></b></p></div>
                     <div class="amph3"></div>
-                    <div class="am3"><p align="center"><b><h2>Bindhya Balamurali</h2></b></p></div><br>
+                    <div class="am3"><p align="center"><b><h2>Arini</h2></b></p></div><br>
                     <div class="text">Thank you so much for your kind support!<br>Hope our products had made you more B-E-A-UTIFUL!</div>
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Praisey Solomon</footer></div>
+                Copyright &copy;2023 Developed by Arini</footer></div>
             </div>
         </div>
     </body>
@@ -569,15 +569,15 @@ contact.html
                     <ul>
                         <li><b>Landline:</b> 12345678</li>
                         <li><b>Mobile</b>: 90 80 70 2009</li>
-                        <li><b>Facebook</b>: fb/sparkleshine</li>
-                        <li><b>Email Id:</b>praise@sparkleshine.com</li>
+                        <li><b>Facebook</b>: arini/queen</li>
+                        <li><b>Email Id:</b>arini@queen.com</li>
                     </ul>
                     <div style="text-align: center;color:violet;font-size:20px;"><b>Use our services and Beautify Yourself!</b></div>
 
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Praisey Solomon</footer></div>
+                Copyright &copy;2023 Developed by Arini</footer></div>
             </div>
         </div>
     </body>
@@ -719,14 +719,14 @@ style.css
 ```
 
 ## Output:
-![out1](./out.png)
-![out1](./out1.png)
-![out1](./out2.png)
-![out1](./out3.png)
+![OUTPUT](./out1.png)
+![OUTPUT](./out2.png)
+![OUTPUT](./out3.png)
+![OUTPUT](./out4.png)
 
 
 ## HTML Validator
-![out1](./valid.png)
+![OUTPUT](./valid.png)
 
 ## Result:
 The program for designing company website for sale of products using HTML and CSS is completed successfully.
